@@ -1,0 +1,13 @@
+@import url(assets/css/header.css);
+@import url(assets/css/main.css);
+@import url(assets/css/footer.css);
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --princial: #9694FF;
+    --fonte-principal: font-family: 'Lato', sans-serif;
+    --fonte-secundario: "Roboto";
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
+}
